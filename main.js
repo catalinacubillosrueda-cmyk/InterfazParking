@@ -1,5 +1,3 @@
-// main.js
-
 const InicioHTML = `
 <div class="inicio">
   <div class="header">
